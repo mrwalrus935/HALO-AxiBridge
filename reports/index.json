@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-162248-tn14",
+      "title": "Lily Highmore",
+      "commanders": [
+        "Lily Highmore"
+      ],
+      "dateStart": "2026-07-05T23:22:48.000Z",
+      "dateEnd": "2026-07-05T23:59:22.000Z",
+      "dateLabel": "7/5/2026, 4:22:48 PM - 7/5/2026, 4:59:22 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260705-162248-tn14",
+      "summary": {
+        "borderlandsPct": 0.4166666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260707-194928-ucds",
       "title": "Mainesnowx",
       "commanders": [
