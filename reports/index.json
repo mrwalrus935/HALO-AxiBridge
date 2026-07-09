@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-162814-ta3l",
+      "title": "Dark Lord Neypa",
+      "commanders": [
+        "Dark Lord Neypa"
+      ],
+      "dateStart": "2026-07-07T23:28:14.000Z",
+      "dateEnd": "2026-07-08T01:03:03.000Z",
+      "dateLabel": "7/7/2026, 4:28:14 PM - 7/7/2026, 6:03:03 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260707-162814-ta3l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260707-194928-dhjp",
       "title": "Mainesnowx",
       "commanders": [
