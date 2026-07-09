@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-195356-ng0o",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
+      ],
+      "dateStart": "2026-06-29T02:53:56.000Z",
+      "dateEnd": "2026-06-29T03:34:01.000Z",
+      "dateLabel": "6/28/2026, 7:53:56 PM - 6/28/2026, 8:34:01 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260628-195356-ng0o",
+      "summary": {
+        "borderlandsPct": 0.5319148936170213,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260623-190321-jhyi",
       "title": "Mainesnowx",
       "commanders": [
