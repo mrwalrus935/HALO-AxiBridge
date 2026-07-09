@@ -1,231 +1,265 @@
-[
-  {
-    "id": "20260614-192614-rbyk",
-    "title": "Mainesnowx",
-    "commanders": [
-      "Mainesnowx"
-    ],
-    "dateStart": "2026-06-15T02:26:14.000Z",
-    "dateEnd": "2026-06-15T03:02:40.000Z",
-    "dateLabel": "6/14/2026, 7:26:14 PM - 6/14/2026, 8:02:40 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260614-192614-rbyk",
-    "summary": {
-      "borderlandsPct": 0.6197183098591549,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 27,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 22,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 22,
-          "color": "#22c55e"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260615-173742-qjso",
+      "title": "Awegwen Guerrilla, Neypá",
+      "commanders": [
+        "Awegwen Guerrilla",
+        "Neypá"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260609-160901-w3wu",
-    "title": "Alleria Highmore, Mainesnowx",
-    "commanders": [
-      "Alleria Highmore",
-      "Mainesnowx"
-    ],
-    "dateStart": "2026-06-09T23:09:01.000Z",
-    "dateEnd": "2026-06-10T02:56:30.000Z",
-    "dateLabel": "6/9/2026, 4:09:01 PM - 6/9/2026, 7:56:30 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260609-160901-w3wu",
-    "summary": {
-      "borderlandsPct": 0.5416666666666666,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 18,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-16T00:37:42.000Z",
+      "dateEnd": "2026-06-16T01:42:22.000Z",
+      "dateLabel": "6/15/2026, 5:37:42 PM - 6/15/2026, 6:42:22 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260615-173742-qjso",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260614-192614-rbyk",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260630-161851-6ml1",
-    "title": "Absern, Lily Highmore",
-    "commanders": [
-      "Absern",
-      "Lily Highmore"
-    ],
-    "dateStart": "2026-06-30T23:18:51.000Z",
-    "dateEnd": "2026-07-01T01:03:35.000Z",
-    "dateLabel": "6/30/2026, 4:18:51 PM - 6/30/2026, 6:03:35 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260630-161851-6ml1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-15T02:26:14.000Z",
+      "dateEnd": "2026-06-15T03:02:40.000Z",
+      "dateLabel": "6/14/2026, 7:26:14 PM - 6/14/2026, 8:02:40 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260614-192614-rbyk",
+      "summary": {
+        "borderlandsPct": 0.6197183098591549,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260609-160901-w3wu",
+      "title": "Alleria Highmore, Mainesnowx",
+      "commanders": [
+        "Alleria Highmore",
+        "Mainesnowx"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260630-161851-thiu",
-    "title": "Absern, Lily Highmore",
-    "commanders": [
-      "Absern",
-      "Lily Highmore"
-    ],
-    "dateStart": "2026-06-30T23:18:51.000Z",
-    "dateEnd": "2026-07-01T01:03:35.000Z",
-    "dateLabel": "6/30/2026, 4:18:51 PM - 6/30/2026, 6:03:35 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260630-161851-thiu",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-09T23:09:01.000Z",
+      "dateEnd": "2026-06-10T02:56:30.000Z",
+      "dateLabel": "6/9/2026, 4:09:01 PM - 6/9/2026, 7:56:30 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260609-160901-w3wu",
+      "summary": {
+        "borderlandsPct": 0.5416666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260630-161851-6ml1",
+      "title": "Absern, Lily Highmore",
+      "commanders": [
+        "Absern",
+        "Lily Highmore"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260705-162248-tn14",
-    "title": "Lily Highmore",
-    "commanders": [
-      "Lily Highmore"
-    ],
-    "dateStart": "2026-07-05T23:22:48.000Z",
-    "dateEnd": "2026-07-05T23:59:22.000Z",
-    "dateLabel": "7/5/2026, 4:22:48 PM - 7/5/2026, 4:59:22 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260705-162248-tn14",
-    "summary": {
-      "borderlandsPct": 0.4166666666666667,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-30T23:18:51.000Z",
+      "dateEnd": "2026-07-01T01:03:35.000Z",
+      "dateLabel": "6/30/2026, 4:18:51 PM - 6/30/2026, 6:03:35 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260630-161851-6ml1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260630-161851-thiu",
+      "title": "Absern, Lily Highmore",
+      "commanders": [
+        "Absern",
+        "Lily Highmore"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260707-194928-ucds",
-    "title": "Mainesnowx",
-    "commanders": [
-      "Mainesnowx"
-    ],
-    "dateStart": "2026-07-08T02:49:28.000Z",
-    "dateEnd": "2026-07-08T03:26:11.000Z",
-    "dateLabel": "7/7/2026, 7:49:28 PM - 7/7/2026, 8:26:11 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260707-194928-ucds",
-    "summary": {
-      "borderlandsPct": 0.20754716981132076,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 42,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-30T23:18:51.000Z",
+      "dateEnd": "2026-07-01T01:03:35.000Z",
+      "dateLabel": "6/30/2026, 4:18:51 PM - 6/30/2026, 6:03:35 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260630-161851-thiu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260705-162248-tn14",
+      "title": "Lily Highmore",
+      "commanders": [
+        "Lily Highmore"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260707-162814-ta3l",
-    "title": "Dark Lord Neypa",
-    "commanders": [
-      "Dark Lord Neypa"
-    ],
-    "dateStart": "2026-07-07T23:28:14.000Z",
-    "dateEnd": "2026-07-08T01:03:03.000Z",
-    "dateLabel": "7/7/2026, 4:28:14 PM - 7/7/2026, 6:03:03 PM",
-    "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260707-162814-ta3l",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-05T23:22:48.000Z",
+      "dateEnd": "2026-07-05T23:59:22.000Z",
+      "dateLabel": "7/5/2026, 4:22:48 PM - 7/5/2026, 4:59:22 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260705-162248-tn14",
+      "summary": {
+        "borderlandsPct": 0.4166666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260707-194928-ucds",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 24
+      "dateStart": "2026-07-08T02:49:28.000Z",
+      "dateEnd": "2026-07-08T03:26:11.000Z",
+      "dateLabel": "7/7/2026, 7:49:28 PM - 7/7/2026, 8:26:11 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260707-194928-ucds",
+      "summary": {
+        "borderlandsPct": 0.20754716981132076,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260707-162814-ta3l",
+      "title": "Dark Lord Neypa",
+      "commanders": [
+        "Dark Lord Neypa"
+      ],
+      "dateStart": "2026-07-07T23:28:14.000Z",
+      "dateEnd": "2026-07-08T01:03:03.000Z",
+      "dateLabel": "7/7/2026, 4:28:14 PM - 7/7/2026, 6:03:03 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260707-162814-ta3l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 24
+      }
     }
-  }
-]
+  ]
+}
