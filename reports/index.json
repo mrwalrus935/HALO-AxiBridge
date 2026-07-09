@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-163342-vib6",
+      "title": "Absern, Alleria Highmore",
+      "commanders": [
+        "Absern",
+        "Alleria Highmore"
+      ],
+      "dateStart": "2026-06-16T23:33:42.000Z",
+      "dateEnd": "2026-06-17T00:54:27.000Z",
+      "dateLabel": "6/16/2026, 4:33:42 PM - 6/16/2026, 5:54:27 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260616-163342-vib6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260615-173742-qjso",
       "title": "Awegwen Guerrilla, Neypá",
       "commanders": [
