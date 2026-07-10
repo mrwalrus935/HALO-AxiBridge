@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260709-181430-38c7",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
+      ],
+      "dateStart": "2026-07-10T01:14:30.000Z",
+      "dateEnd": "2026-07-10T01:42:40.000Z",
+      "dateLabel": "7/9/2026, 6:14:30 PM - 7/9/2026, 6:42:40 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260709-181430-38c7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260628-195356-ng0o",
       "title": "Mainesnowx",
       "commanders": [
