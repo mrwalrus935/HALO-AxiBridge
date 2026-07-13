@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-184333-uda5",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
+      ],
+      "dateStart": "2026-07-13T01:43:33.000Z",
+      "dateEnd": "2026-07-13T02:37:17.000Z",
+      "dateLabel": "7/12/2026, 6:43:33 PM - 7/12/2026, 7:37:17 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260712-184333-uda5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260712-154647-89pv",
       "title": "Alleria Highmore",
       "commanders": [
