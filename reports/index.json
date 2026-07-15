@@ -4,6 +4,42 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-155240-qth0",
+      "title": "Alleria Highmore, Awegwen Venator, Dark Lord Neypa, Lily Highmore",
+      "commanders": [
+        "Alleria Highmore",
+        "Awegwen Venator",
+        "Dark Lord Neypa",
+        "Lily Highmore"
+      ],
+      "dateStart": "2026-07-14T22:52:40.000Z",
+      "dateEnd": "2026-07-15T01:07:36.000Z",
+      "dateLabel": "7/14/2026, 3:52:40 PM - 7/14/2026, 6:07:36 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260714-155240-qth0",
+      "summary": {
+        "borderlandsPct": 0.19607843137254902,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260712-184333-uda5",
       "title": "Mainesnowx",
       "commanders": [
