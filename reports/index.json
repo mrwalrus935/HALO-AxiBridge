@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-152821-k339",
+      "title": "Alleria Highmore",
+      "commanders": [
+        "Alleria Highmore"
+      ],
+      "dateStart": "2026-07-19T22:28:21.000Z",
+      "dateEnd": "2026-07-19T23:25:13.000Z",
+      "dateLabel": "7/19/2026, 3:28:21 PM - 7/19/2026, 4:25:13 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260719-152821-k339",
+      "summary": {
+        "borderlandsPct": 0.78125,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260719-152821-a5bv",
       "title": "Alleria Highmore",
       "commanders": [
