@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-145252-aupc",
+      "title": "Lily Highmore, Necrocean",
+      "commanders": [
+        "Lily Highmore",
+        "Necrocean"
+      ],
+      "dateStart": "2026-07-21T21:52:52.000Z",
+      "dateEnd": "2026-07-21T23:39:44.000Z",
+      "dateLabel": "7/21/2026, 2:52:52 PM - 7/21/2026, 4:39:44 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260721-145252-aupc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260719-164649-e4ch",
       "title": "Alleria Highmore",
       "commanders": [
