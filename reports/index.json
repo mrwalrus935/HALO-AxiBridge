@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-185242-i3sb",
+      "title": "Bsmiithpkt, Xxmaine",
+      "commanders": [
+        "Bsmiithpkt",
+        "Xxmaine"
+      ],
+      "dateStart": "2026-07-23T01:52:42.000Z",
+      "dateEnd": "2026-07-23T02:19:50.000Z",
+      "dateLabel": "7/22/2026, 6:52:42 PM - 7/22/2026, 7:19:50 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260722-185242-i3sb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260721-145252-aupc",
       "title": "Lily Highmore, Necrocean",
       "commanders": [
