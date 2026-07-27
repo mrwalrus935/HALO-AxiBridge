@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-200219-jmh6",
+      "title": "Xmainex",
+      "commanders": [
+        "Xmainex"
+      ],
+      "dateStart": "2026-07-27T03:02:19.000Z",
+      "dateEnd": "2026-07-27T03:54:48.000Z",
+      "dateLabel": "7/26/2026, 8:02:19 PM - 7/26/2026, 8:54:48 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260726-200219-jmh6",
+      "summary": {
+        "borderlandsPct": 0.023809523809523808,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260726-171735-4zgk",
       "title": "Absern, Alleria Highmore",
       "commanders": [
