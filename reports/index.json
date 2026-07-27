@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-171838-0y0n",
+      "title": "Absern, Alleria Highmore, Xmainex",
+      "commanders": [
+        "Absern",
+        "Alleria Highmore",
+        "Xmainex"
+      ],
+      "dateStart": "2026-07-27T00:18:38.000Z",
+      "dateEnd": "2026-07-27T01:27:25.000Z",
+      "dateLabel": "7/26/2026, 5:18:38 PM - 7/26/2026, 6:27:25 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260726-171838-0y0n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 45,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260722-185242-i3sb",
       "title": "Bsmiithpkt, Xxmaine",
       "commanders": [
