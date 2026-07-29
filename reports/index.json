@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-164852-5m53",
+      "title": "Absern, Lily Highmore",
+      "commanders": [
+        "Absern",
+        "Lily Highmore"
+      ],
+      "dateStart": "2026-07-28T23:48:52.000Z",
+      "dateEnd": "2026-07-29T00:58:25.000Z",
+      "dateLabel": "7/28/2026, 4:48:52 PM - 7/28/2026, 5:58:25 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260728-164852-5m53",
+      "summary": {
+        "borderlandsPct": 0.6818181818181818,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260726-200219-jmh6",
       "title": "Xmainex",
       "commanders": [
