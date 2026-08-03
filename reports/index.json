@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-153453-mo9o",
+      "title": "Alleria Highmore",
+      "commanders": [
+        "Alleria Highmore"
+      ],
+      "dateStart": "2026-08-02T22:34:53.000Z",
+      "dateEnd": "2026-08-02T23:44:05.000Z",
+      "dateLabel": "8/2/2026, 3:34:53 PM - 8/2/2026, 4:44:05 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260802-153453-mo9o",
+      "summary": {
+        "borderlandsPct": 0.9696969696969697,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260728-183314-6845",
       "title": "Xmainex",
       "commanders": [
