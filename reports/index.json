@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-181109-gs9q",
+      "title": "Xmainex",
+      "commanders": [
+        "Xmainex"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-08-13T01:11:09.000Z",
+      "dateEnd": "2026-08-13T01:50:51.000Z",
+      "dateLabel": "8/12/2026, 6:11:09 PM - 8/12/2026, 6:50:51 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260812-181109-gs9q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260811-182950-bqmc",
       "title": "Xmainex",
       "commanders": [
