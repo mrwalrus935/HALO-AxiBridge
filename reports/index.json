@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-183500-fqbn",
+      "title": "Xmainex",
+      "commanders": [
+        "Xmainex"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-08-19T01:35:00.000Z",
+      "dateEnd": "2026-08-19T02:36:09.446Z",
+      "dateLabel": "8/18/2026, 6:35:00 PM - 8/18/2026, 7:36:09 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260818-183500-fqbn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260818-161224-uaco",
       "title": "Lily Highmore",
       "commanders": [
