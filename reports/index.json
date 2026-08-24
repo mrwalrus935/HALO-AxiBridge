@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-183301-dnzs",
+      "title": "Xxmaine",
+      "commanders": [
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-08-24T01:33:01.000Z",
+      "dateEnd": "2026-08-24T01:55:40.424Z",
+      "dateLabel": "8/23/2026, 6:33:01 PM - 8/23/2026, 6:55:40 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260823-183301-dnzs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 50,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260820-191250-wlqx",
       "title": "Xxmaine",
       "commanders": [
