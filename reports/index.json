@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-144119-6iiy",
+      "title": "Neypa, Nèypä",
+      "commanders": [
+        "Neypa",
+        "Nèypä"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-08-25T21:41:19.000Z",
+      "dateEnd": "2026-08-25T23:14:45.166Z",
+      "dateLabel": "8/25/2026, 2:41:19 PM - 8/25/2026, 4:14:45 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260825-144119-6iiy",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260823-183301-dnzs",
       "title": "Xxmaine",
       "commanders": [
