@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-184153-ei4y",
+      "title": "Alleria Highmore, Xxmaine",
+      "commanders": [
+        "Alleria Highmore",
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-08-26T01:41:53.000Z",
+      "dateEnd": "2026-08-26T02:08:16.223Z",
+      "dateLabel": "8/25/2026, 6:41:53 PM - 8/25/2026, 7:08:16 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260825-184153-ei4y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260825-144119-6iiy",
       "title": "Neypa, Nèypä",
       "commanders": [
