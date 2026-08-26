@@ -4,6 +4,51 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-184153-wgyh",
+      "title": "Alleria Highmore, Xmainex, Xxmaine",
+      "commanders": [
+        "Alleria Highmore",
+        "Xmainex",
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-08-26T01:41:53.000Z",
+      "dateEnd": "2026-08-26T03:06:28.199Z",
+      "dateLabel": "8/25/2026, 6:41:53 PM - 8/25/2026, 8:06:28 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260825-184153-wgyh",
+      "summary": {
+        "borderlandsPct": 0.6111111111111112,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 7,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260825-184153-ei4y",
       "title": "Alleria Highmore, Xxmaine",
       "commanders": [
