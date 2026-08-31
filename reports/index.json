@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-155023-1aap",
+      "title": "Absern, Apyen",
+      "commanders": [
+        "Absern",
+        "Apyen"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-08-30T22:50:23.000Z",
+      "dateEnd": "2026-08-30T23:53:06.063Z",
+      "dateLabel": "8/30/2026, 3:50:23 PM - 8/30/2026, 4:53:06 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260830-155023-1aap",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260827-181546-xjum",
       "title": "Xxmaine",
       "commanders": [
