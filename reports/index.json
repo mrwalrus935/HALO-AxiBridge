@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-185241-6ayl",
+      "title": "Mainesnoww, Xmainex",
+      "commanders": [
+        "Mainesnoww",
+        "Xmainex"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-02T01:52:41.000Z",
+      "dateEnd": "2026-09-02T02:40:36.347Z",
+      "dateLabel": "9/1/2026, 6:52:41 PM - 9/1/2026, 7:40:36 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260901-185241-6ayl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260901-153413-hhv7",
       "title": "Alleria Highmore, Neypa",
       "commanders": [
