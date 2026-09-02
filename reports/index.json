@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-153413-hhv7",
+      "title": "Alleria Highmore, Neypa",
+      "commanders": [
+        "Alleria Highmore",
+        "Neypa"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-09-01T22:34:13.000Z",
+      "dateEnd": "2026-09-02T00:34:06.026Z",
+      "dateLabel": "9/1/2026, 3:34:13 PM - 9/1/2026, 5:34:06 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260901-153413-hhv7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260830-184507-uak9",
       "title": "Xxmaine",
       "commanders": [
