@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-182929-jl3d",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-07T01:29:29.000Z",
+      "dateEnd": "2026-09-07T02:15:22.987Z",
+      "dateLabel": "9/6/2026, 6:29:29 PM - 9/6/2026, 7:15:22 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260906-182929-jl3d",
+      "summary": {
+        "borderlandsPct": 0.26229508196721313,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260903-184416-ncki",
       "title": "Xxmaine",
       "commanders": [
