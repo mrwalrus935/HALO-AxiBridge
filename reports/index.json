@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-182520-ubr0",
+      "title": "Neypa, Xxmaine",
+      "commanders": [
+        "Neypa",
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-09T01:25:20.000Z",
+      "dateEnd": "2026-09-09T02:00:32.583Z",
+      "dateLabel": "9/8/2026, 6:25:20 PM - 9/8/2026, 7:00:32 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260908-182520-ubr0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260908-153258-gve6",
       "title": "Neypa",
       "commanders": [
