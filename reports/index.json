@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-190919-w9md",
+      "title": "Ron Mexicoo, Xxmaine",
+      "commanders": [
+        "Ron Mexicoo",
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-09T02:09:19.000Z",
+      "dateEnd": "2026-09-09T02:40:18.998Z",
+      "dateLabel": "9/8/2026, 7:09:19 PM - 9/8/2026, 7:40:18 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260908-190919-w9md",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260908-182520-ubr0",
       "title": "Neypa, Xxmaine",
       "commanders": [
