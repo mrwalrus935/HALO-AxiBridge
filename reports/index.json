@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-191150-v40q",
+      "title": "Apyen, Xxmaine",
+      "commanders": [
+        "Apyen",
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-13T02:11:50.000Z",
+      "dateEnd": "2026-09-13T02:58:14.764Z",
+      "dateLabel": "9/12/2026, 7:11:50 PM - 9/12/2026, 7:58:14 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260912-191150-v40q",
+      "summary": {
+        "borderlandsPct": 0.6756756756756757,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260909-192300-tl6c",
       "title": "Xxmaine",
       "commanders": [
