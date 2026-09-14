@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-153524-ymmm",
+      "title": "Alleria Highmore",
+      "commanders": [
+        "Alleria Highmore"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-09-13T22:35:24.000Z",
+      "dateEnd": "2026-09-13T23:56:05.014Z",
+      "dateLabel": "9/13/2026, 3:35:24 PM - 9/13/2026, 4:56:05 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260913-153524-ymmm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260912-191150-v40q",
       "title": "Apyen, Xxmaine",
       "commanders": [
