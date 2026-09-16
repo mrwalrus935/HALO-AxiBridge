@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-210207-sbv9",
+      "title": "X Kears",
+      "commanders": [
+        "X Kears"
+      ],
+      "guild": {
+        "id": "81153AB9-23AB-F111-BB1E-129A72F3745D",
+        "name": "In Our Dreams",
+        "tag": "FOXY"
+      },
+      "dateStart": "2026-09-16T04:02:07.000Z",
+      "dateEnd": "2026-09-16T04:44:47.088Z",
+      "dateLabel": "9/15/2026, 9:02:07 PM - 9/15/2026, 9:44:47 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260915-210207-sbv9",
+      "summary": {
+        "borderlandsPct": 0.047619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260915-183813-ph31",
       "title": "Alleria Highmore, Dark Lord Neypa",
       "commanders": [
