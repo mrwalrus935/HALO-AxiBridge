@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-183813-ph31",
+      "title": "Alleria Highmore, Dark Lord Neypa",
+      "commanders": [
+        "Alleria Highmore",
+        "Dark Lord Neypa"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-09-16T01:38:13.000Z",
+      "dateEnd": "2026-09-16T02:18:10.697Z",
+      "dateLabel": "9/15/2026, 6:38:13 PM - 9/15/2026, 7:18:10 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260915-183813-ph31",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260915-155517-s6j8",
       "title": "Alleria Highmore",
       "commanders": [
