@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-183025-mnsk",
+      "title": "Xxmaine",
+      "commanders": [
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "8DF44DA4-32C5-ED11-81B2-A840610878B3",
+        "name": "Three Point Five",
+        "tag": "GFSF"
+      },
+      "dateStart": "2026-09-21T01:30:25.000Z",
+      "dateEnd": "2026-09-21T02:11:33.152Z",
+      "dateLabel": "9/20/2026, 6:30:25 PM - 9/20/2026, 7:11:33 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20260920-183025-mnsk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260920-154516-ehep",
       "title": "Nèypä",
       "commanders": [
