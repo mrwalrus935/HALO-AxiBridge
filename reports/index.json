@@ -5,6 +5,44 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261006-155913-iqhx",
+      "title": "Neypa",
+      "commanders": [
+        "Neypa"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-06T22:59:13.000Z",
+      "dateEnd": "2026-10-06T23:45:48.335Z",
+      "dateLabel": "10/6/2026, 3:59:13 PM - 10/6/2026, 4:45:48 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261006-155913-iqhx",
+      "summary": {
+        "borderlandsPct": 0.5517241379310345,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261004-154409-zmmp",
       "title": "Absern",
       "commanders": [
