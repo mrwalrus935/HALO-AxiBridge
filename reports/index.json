@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261008-182111-wmha",
+      "title": "Dark Lord Neypa",
+      "commanders": [
+        "Dark Lord Neypa"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-09T01:21:11.000Z",
+      "dateEnd": "2026-10-09T02:16:55.392Z",
+      "dateLabel": "10/8/2026, 6:21:11 PM - 10/8/2026, 7:16:55 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261008-182111-wmha",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 0.7096774193548387,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261007-183048-16na",
       "title": "Engineer Neypa",
       "commanders": [
