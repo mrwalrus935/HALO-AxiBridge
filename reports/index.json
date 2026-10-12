@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.5"
   },
   "entries": [
+    {
+      "id": "20261011-154334-yjcg",
+      "title": "Nèypä",
+      "commanders": [
+        "Nèypä"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-11T22:43:34.000Z",
+      "dateEnd": "2026-10-11T23:24:38.686Z",
+      "dateLabel": "10/11/2026, 3:43:34 PM - 10/11/2026, 4:24:38 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261011-154334-yjcg",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20261008-182111-wmha",
       "title": "Dark Lord Neypa",
