@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261016-154743-tpi2",
+      "title": "Apyen",
+      "commanders": [
+        "Apyen"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-16T22:47:43.000Z",
+      "dateEnd": "2026-10-16T23:46:26.941Z",
+      "dateLabel": "10/16/2026, 3:47:43 PM - 10/16/2026, 4:46:26 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261016-154743-tpi2",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261013-155445-p75x",
       "title": "Alleria Highmore",
       "commanders": [
