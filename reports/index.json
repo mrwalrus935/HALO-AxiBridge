@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-150645-pnsk",
+      "title": "Nèypä",
+      "commanders": [
+        "Nèypä"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-18T22:06:45.000Z",
+      "dateEnd": "2026-10-18T23:44:23.584Z",
+      "dateLabel": "10/18/2026, 3:06:45 PM - 10/18/2026, 4:44:23 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261018-150645-pnsk",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261016-154743-tpi2",
       "title": "Apyen",
