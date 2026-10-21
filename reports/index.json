@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261020-152042-o9re",
+      "title": "Nèypä",
+      "commanders": [
+        "Nèypä"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-10-20T22:20:42.000Z",
+      "dateEnd": "2026-10-20T23:20:26.438Z",
+      "dateLabel": "10/20/2026, 3:20:42 PM - 10/20/2026, 4:20:26 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261020-152042-o9re",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261018-150645-pnsk",
       "title": "Nèypä",
       "commanders": [
