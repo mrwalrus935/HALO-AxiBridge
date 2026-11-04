@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-151027-kcki",
+      "title": "Alleria Highmore",
+      "commanders": [
+        "Alleria Highmore"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-11-03T23:10:27.000Z",
+      "dateEnd": "2026-11-04T00:44:08.321Z",
+      "dateLabel": "11/3/2026, 3:10:27 PM - 11/3/2026, 4:44:08 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261103-151027-kcki",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261101-150129-bjx6",
       "title": "Nèypä",
