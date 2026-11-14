@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-163216-ib1h",
+      "title": "Neypá",
+      "commanders": [
+        "Neypá"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-11-14T00:32:16.000Z",
+      "dateEnd": "2026-11-14T01:16:06.299Z",
+      "dateLabel": "11/13/2026, 4:32:16 PM - 11/13/2026, 5:16:06 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261113-163216-ib1h",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 20
+      }
+    },
     {
       "id": "20261110-153537-rn6r",
       "title": "Neypá, Nèypä",
