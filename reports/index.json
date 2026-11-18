@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261117-152452-86ff",
+      "title": "Nèypä",
+      "commanders": [
+        "Nèypä"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-11-17T23:24:52.000Z",
+      "dateEnd": "2026-11-18T00:02:06.782Z",
+      "dateLabel": "11/17/2026, 3:24:52 PM - 11/17/2026, 4:02:06 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261117-152452-86ff",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261115-150356-1n9p",
       "title": "Neypá",
       "commanders": [
