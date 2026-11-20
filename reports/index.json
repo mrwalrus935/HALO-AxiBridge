@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-154305-bort",
+      "title": "Apyen",
+      "commanders": [
+        "Apyen"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-11-19T23:43:05.000Z",
+      "dateEnd": "2026-11-20T00:53:01.129Z",
+      "dateLabel": "11/19/2026, 3:43:05 PM - 11/19/2026, 4:53:01 PM",
+      "url": "https://mrwalrus935.github.io/HALO-AxiBridge/?report=20261119-154305-bort",
+      "publishedBy": "mrwalrus935",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261117-152452-86ff",
       "title": "Nèypä",
       "commanders": [
